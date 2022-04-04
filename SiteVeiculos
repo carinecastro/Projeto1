@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html long = "pt-BR">
+<head>
+<title>Zeze Veiculos</title>
+<link href="css/reset.css" rel="stylesheet" type="text/css" media="all" />
+<link href="css/typography.css" rel="stylesheet" type="text/css" media="all" />
+<link href="css/main.css" rel="stylesheet" type="text/css" />
+
+</head>
+<body>
+<div id="mainwrap">		
+	<div id="pagetop"><div id="pagetop-inner">
+    	<div id="header" class="clearfix">
+        	<h1 id="logo"><a href="?">Zezé Veículos</a></h1>
+        </div>
+        <div id="mainnav" class="vernav clearfix">
+        	<ul class="clearfix">
+                <li><a href="?"><span>Fale conosco</span></a></li>
+            </ul>
+        </div>
+        <div id="content">
+        	<h1>Encontre aqui o veículo perfeito para você!</h1>
+                <p style="margin-bottom: 40px;">
+                <strong>
+                    <br><br><br>
+                    Atuamos no mercado há mais de 40 anos, com honestidade, segurança e solidez,
+                    <br><br>
+                    conquistando a cada dia novos parceiros e amigos, comprando, trocando, vendendo
+                    <br><br>
+                    e financiando veículos novos e usados, com garantia e qualidade. 
+                    <br><br>
+                    A fim de oferecer um serviço de qualidade e cordialidade, buscamos muito além 
+                    <br><br>
+                    de novos negócios, buscamos fazer você conquistar o carro dos seus sonhos!
+                </strong></p>            
+        </div>
+        
+    </div></div>
+    <div id="pagebot" class="clearfix">
+    	<h2>Nossos Veículos <img src="images/bullet1.gif" alt="" style="margin-bottom: -1px" /></h2>
+        <div id="box-wrap" class="clearfix">
+        	<div class="box">
+            	<span class="date">30.03.22</span>
+                <p><a href="?" class="title">Fiat Pálio Spoting 1.6 2016</a></p>
+                <img src="images/car1-xhdzy.jpg" class="img" alt="xhdzy" />
+                <p> O carro ganhou visual repaginado, itens exclusivos e 
+                    até algumas alterações mecânicas para se destacar do 
+                    restante da linha. É equipado com o mesmo 1.6 16V e 
+                    Torq da versão Essence.São 117 cv e 16,8 kgfm de torque
+                    quando abastecido com etanol que, segundo a Fiat, são
+                    capazes de levar o hatch do zero aos 100 km/h em 
+                    9,9 segundos e à máxima de 191 km/h. As rodas de liga 
+                    leve também são maiores em relação às da versão Essence 
+                    (16” contra 15”), além de calçarem pneus mais largos e 
+                    de perfil mais baixo (195/55 R16 contra 185/60 R15). 
+                    Contando com uma ótima posição para dirigir, conforto e
+                    um preço e baixo custo de manutenção. Apesar de ser a
+                    versão Sporting, não deixa nada a desejar no consumo, 
+                    sendo capaz de fazer 12,3 km/l na cidade e 15 km/l na 
+                    estrada utilizando gasolina.
+                     </p>
+            </div>
+            <div class="box">
+            	<span class="date">27.03.22</span>
+                <p><a href="?" class="title">Fiat Strada Adventure C.E. 1.8 2004</a></p>
+                <img src="images/car2.jpg" class="img" alt="" />
+                <p> Pioneira a oferecer mais espaço interno para acomodação
+                    de bagagens. Ela se diferencia do modelo Strada Cabine 
+                    Simples por contar com um compartimento maior atrás dos 
+                    bancos, que possibilita acomodar pequenos objetos (como
+                    malas e mochilas) dentro da cabine, ao invés de usar a 
+                    caçamba. Contendo um espaço de 300 litros na cabine para
+                    levar pequenos objetos e contando com uma capacidade de 
+                    carga de 705 kg. Com faróis maiores e com um desenho 
+                    diferenciado, para-choques mais imponentes, novas rodas
+                    de liga-leve e tampa da caçamba com desenho mais limpo.
+                    Contando com um motor 1.8 GM flex. Potência de 106 cv 
+                    com gasolina e 110 cv com etanol, a 5.500 rpm, e torque
+                    de 17,5 e 18,4 kgfm, respectivamente, a 3.000 giros. </p>
+            </div>
+            <div class="box box-last">
+            	<span class="date">22.03.22</span>
+                <p><a href="?" class="title">. Volkswagen Gol 1.6 2014</a></p>
+                <img src="images/car3.jpg" class="img" alt="" />
+                <p> Contando um sistema de economia de combustível, que auxilia 
+                    o motorista a gastar menos. Tendo direção hidráulica, freios
+                    abs e controle de estabilidade, garantem mais segurança e 
+                    conforto ao dirigir. A autonomia do VW Gol 1.6 com etanol é 
+                    de 7,7 km/litro na cidade e 9,6 km/litro na estrada, com 
+                    gasolina passa para 11,1 km/litro na cidade e 13,6 km/litro 
+                    na estrada. O carro recebeu para-choques mais envolventes, 
+                    grade do radiador tipo colmeia, com friso cromado e o nome 
+                    da versão, faróis e lanternas escurecidos, rodas de liga-leve
+                    de 16 polegadas com acabamento diamantado, suspensão elevada 
+                    em 23 mm, novos pneus 195/50 R16, capa dos retrovisores na cor
+                    prata, entre outros. são 101 cv com gasolina e 104 cv com 
+                    etanol, a 5.250 rpm. O torque é de 15,4 kgfm e 15,6 kgfm, 
+                    nesta ordem, disponível a partir de 2.500 rotações.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>
